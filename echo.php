@@ -6,4 +6,13 @@
 echo "Learning PHP Echo!";
 echo "<br>";
 echo "This is a simple example of using echo in PHP.";
-?>
+
+echo "<br>";
+echo "sum for 10 + 20 is: ";
+echo (10 + 20); // This will output the sum of 10 and 20, which is 30.
+echo "<br>";
+
+echo "sum for 10 + 20 is: " . (10 + 20);
+echo "<br>";
+echo "sum for 10 + 20 is: " . (10 + 20) . " and this is the end of the line.";
+echo "<br>";
