@@ -1,5 +1,5 @@
 
-<!-- testing url: http://localhost/php/ -->
+<!-- testing url: http://localhost/php/html.php -->
 <?php
 echo "Hello, World!";
 echo "<br>";
